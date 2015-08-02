@@ -4,7 +4,7 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: swapmeter.cc,v 1.9 1999/02/01 17:28:49 mromberg Exp $
 //
 #include "swapmeter.h"
 #include "xosview.h"

@@ -1,5 +1,5 @@
 #
-# $Id$
+# $Id: Makefile,v 1.3 2002/02/18 02:09:21 bgrayson Exp $
 #
 
 all: ../configure

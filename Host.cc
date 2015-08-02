@@ -4,14 +4,14 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: Host.cc,v 1.7 2006/02/18 04:33:04 romberg Exp $
 //
 #include <stdlib.h>
 #include <string.h>
 #include "general.h"
 #include "Host.h"
 
-CVSID("$Id$");
+CVSID("$Id: Host.cc,v 1.7 2006/02/18 04:33:04 romberg Exp $");
 CVSID_DOT_H(HOST_H_CVSID);
 
 #if defined(__hpux__) || defined(__hpux)

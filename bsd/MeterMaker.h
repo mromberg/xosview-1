@@ -10,12 +10,12 @@
 //    should have received.  If not, contact one of the xosview
 //    authors for a copy.
 //
-// $Id$
+// $Id: MeterMaker.h,v 1.6 2002/03/22 03:23:40 bgrayson Exp $
 //
 #ifndef _MeterMaker_h
 #define _MeterMaker_h
 
-#define METERMAKER_H_CVSID "$Id$"
+#define METERMAKER_H_CVSID "$Id: MeterMaker.h,v 1.6 2002/03/22 03:23:40 bgrayson Exp $"
 
 #include "pllist.h"
 

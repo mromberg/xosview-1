@@ -1,5 +1,5 @@
 //  
-// $Id$
+// $Id: cpumeter.h,v 1.4 2006/02/18 07:57:21 romberg Exp $
 //  Initial port performed by Greg Onufer (exodus@cheers.bungi.com)
 //
 #ifndef _CPUMETER_H_

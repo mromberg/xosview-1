@@ -15,7 +15,7 @@
 //    should have received.  If not, contact one of the xosview
 //    authors for a copy.
 //
-// $Id$
+// $Id: memmeter.cc,v 1.25 2002/07/14 03:48:45 bgrayson Exp $
 //
 #include <stdlib.h>		//  For atoi().  BCG
 #include "general.h"
@@ -29,7 +29,7 @@
 # include <sys/vmmeter.h>
 #endif
 
-CVSID("$Id$");
+CVSID("$Id: memmeter.cc,v 1.25 2002/07/14 03:48:45 bgrayson Exp $");
 CVSID_DOT_H(MEMMETER_H_CVSID);
 
 MemMeter::MemMeter( XOSView *parent )

@@ -4,7 +4,7 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: btrymeter.cc,v 1.11 2006/02/18 05:23:27 romberg Exp $
 //
 #include "btrymeter.h"
 #include "xosview.h"

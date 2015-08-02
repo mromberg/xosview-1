@@ -11,7 +11,7 @@
 //    should have received.  If not, contact one of the xosview
 //    authors for a copy.
 //
-#define GENERAL_H_CVSID "$Id$"
+#define GENERAL_H_CVSID "$Id: general.h,v 1.7 2006/02/18 07:57:21 romberg Exp $"
 
   /*  This file should be included by every .cc file, after any system
       includes but before any local includes.  It should NOT be included

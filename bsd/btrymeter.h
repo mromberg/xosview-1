@@ -6,7 +6,7 @@
 //  (talmage@jefferson.cmf.nrl.navy.mil)
 //
 //
-// $Id$
+// $Id: btrymeter.h,v 1.1 1999/01/25 20:14:33 bgrayson Exp $
 //
 #ifndef _BTRYMETER_H_
 #define _BTRYMETER_H_

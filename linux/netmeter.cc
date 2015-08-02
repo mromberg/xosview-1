@@ -7,7 +7,7 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: netmeter.cc,v 1.27 2006/02/18 05:35:59 romberg Exp $
 //
 
 //-----------------------------------------------------------------------

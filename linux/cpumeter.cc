@@ -4,7 +4,7 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: cpumeter.cc,v 1.17 2006/02/18 06:03:46 romberg Exp $
 //
 #include "cpumeter.h"
 #include "xosview.h"

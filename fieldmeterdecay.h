@@ -16,7 +16,7 @@
 #ifndef _FIELDMETERDECAY_H_
 #define _FIELDMETERDECAY_H_
 
-#define FIELDMETERDECAY_H_CVSID "$Id$"
+#define FIELDMETERDECAY_H_CVSID "$Id: fieldmeterdecay.h,v 1.7 2006/02/18 04:33:04 romberg Exp $"
 
 #include "meter.h"
 #include "fieldmeter.h"

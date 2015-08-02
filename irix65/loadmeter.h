@@ -1,5 +1,5 @@
 //  
-// $Id$
+// $Id: loadmeter.h,v 1.2 2001/10/17 14:03:55 eile Exp $
 //  Initial port performed by Stefan Eilemann (eile@sgi.com)
 //
 #ifndef _LOADMETER_H_

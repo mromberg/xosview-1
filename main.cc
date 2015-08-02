@@ -4,12 +4,12 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: main.cc,v 1.7 2006/02/18 04:33:04 romberg Exp $
 //
 #include "general.h"
 #include "xosview.h"
 
-CVSID("$Id$");
+CVSID("$Id: main.cc,v 1.7 2006/02/18 04:33:04 romberg Exp $");
 
 int main( int argc, char *argv[] ) {
   /*  Icky.  Need to check for -name option here.  */

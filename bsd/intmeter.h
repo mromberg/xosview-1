@@ -4,7 +4,7 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: intmeter.h,v 1.1 1998/02/12 04:23:52 bgrayson Exp $
 //
 #ifndef _INTMETER_H_
 #define _INTMETER_H_

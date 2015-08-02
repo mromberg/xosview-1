@@ -4,7 +4,7 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: Xrm.cc,v 1.14 2006/02/18 04:33:04 romberg Exp $
 //
 
 #include <string.h>
@@ -25,7 +25,7 @@
 #include "Xrm.h"
 #include "Xrmcommandline.h"
 
-CVSID("$Id$");
+CVSID("$Id: Xrm.cc,v 1.14 2006/02/18 04:33:04 romberg Exp $");
 CVSID_DOT_H(XRM_H_CVSID);
 CVSID_DOT_H2(XRMCOMMANDLINE_H_CVSID);
 

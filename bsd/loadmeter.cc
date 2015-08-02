@@ -13,14 +13,14 @@
 //    authors for a copy.
 //
 //
-// $Id$
+// $Id: loadmeter.cc,v 1.16 2003/10/09 04:23:40 bgrayson Exp $
 //
 #include <stdlib.h>  //  for getloadavg()
 #include "general.h"
 #include "loadmeter.h"
 #include "xosview.h"
 
-CVSID("$Id$");
+CVSID("$Id: loadmeter.cc,v 1.16 2003/10/09 04:23:40 bgrayson Exp $");
 CVSID_DOT_H(LOADMETER_H_CVSID);
 
 LoadMeter::LoadMeter( XOSView *parent )

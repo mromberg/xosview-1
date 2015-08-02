@@ -2,7 +2,7 @@
 # SunOS 5 Makefile template
 #
 #
-# $Id$
+# $Id: Makefile.sunos5.in,v 1.2 1999/11/12 04:28:45 romberg Exp $
 #
 include ../Makefile.config
 @AUTODEPRULE_SUBDIR@

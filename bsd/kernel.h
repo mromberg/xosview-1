@@ -13,10 +13,10 @@
 //    should have received.  If not, contact one of the xosview
 //    authors for a copy.
 //
-// $Id$
+// $Id: kernel.h,v 1.22 2003/10/14 01:53:17 bgrayson Exp $
 //
 
-#define KERNEL_H_CVSID	"$Id$"
+#define KERNEL_H_CVSID	"$Id: kernel.h,v 1.22 2003/10/14 01:53:17 bgrayson Exp $"
 
 void
 BSDInit();

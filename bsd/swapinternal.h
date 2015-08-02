@@ -3,7 +3,7 @@
 //  NetBSD distribution.
 //  
 //
-// $Id$
+// $Id: swapinternal.h,v 1.7 2002/07/14 03:48:45 bgrayson Exp $
 //
 
 //  Header file for the swap internal/NetBSD-specific code.

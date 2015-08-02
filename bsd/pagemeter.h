@@ -12,12 +12,12 @@
 //    should have received.  If not, contact one of the xosview
 //    authors for a copy.
 //
-// $Id$
+// $Id: pagemeter.h,v 1.6 2003/10/09 04:22:32 bgrayson Exp $
 //
 #ifndef _PAGEMETER_H_
 #define _PAGEMETER_H_
 
-#define PAGEMETER_H_CVSID "$Id$"
+#define PAGEMETER_H_CVSID "$Id: pagemeter.h,v 1.6 2003/10/09 04:22:32 bgrayson Exp $"
 
 #include "fieldmetergraph.h"
 #if defined(UVM)

@@ -1,5 +1,5 @@
 //
-// $Id$
+// $Id: xwin.cc,v 1.17 2003/10/09 03:39:40 bgrayson Exp $
 //
 
 #include <X11/Xatom.h>
@@ -10,7 +10,7 @@
 #include "xwin.h"
 #include "Xrm.h"
 
-CVSID("$Id$");
+CVSID("$Id: xwin.cc,v 1.17 2003/10/09 03:39:40 bgrayson Exp $");
 CVSID_DOT_H(XWIN_H_CVSID);
 
 //-----------------------------------------------------------------------------

@@ -4,7 +4,7 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: memmeter.h,v 1.4 1999/01/23 22:20:40 mromberg Exp $
 //
 #ifndef _MEMMETER_H_
 #define _MEMMETER_H_

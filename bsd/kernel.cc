@@ -15,7 +15,7 @@
 //    should have received.  If not, contact one of the xosview
 //    authors for a copy.
 //
-// $Id$
+// $Id: kernel.cc,v 1.50 2006/02/18 07:57:21 romberg Exp $
 //
 #ifndef XOSVIEW_NETBSD
 /*  NetBSD pulls in stdio.h via one of the other includes, but
@@ -120,7 +120,7 @@ __END_DECLS
 #include "general.h"
 #include "kernel.h"		/*  To grab CVSID stuff.  */
 
-CVSID("$Id$");
+CVSID("$Id: kernel.cc,v 1.50 2006/02/18 07:57:21 romberg Exp $");
 CVSID_DOT_H(KERNEL_H_CVSID);
 
 

@@ -4,13 +4,13 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: bitmeter.cc,v 1.10 2006/02/18 04:33:04 romberg Exp $
 //
 #include "general.h"
 #include "bitmeter.h"
 #include "xosview.h"
 
-CVSID("$Id$");
+CVSID("$Id: bitmeter.cc,v 1.10 2006/02/18 04:33:04 romberg Exp $");
 CVSID_DOT_H(BITMETER_H_CVSID);
 
 BitMeter::BitMeter( XOSView *parent,

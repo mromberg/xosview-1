@@ -7,7 +7,7 @@
 //  BSD porting work done by David W. Talmage
 //  <talmage@jefferson.cmf.nrl.navy.mil>
 //
-// $Id$
+// $Id: btrymeter.cc,v 1.3 2003/10/09 03:53:42 bgrayson Exp $
 //
 //  Only supported for NetBSD so far.
 #include "btrymeter.h"

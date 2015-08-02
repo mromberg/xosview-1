@@ -10,7 +10,7 @@
 //    should have received.  If not, contact one of the xosview
 //    authors for a copy.
 //
-// $Id$
+// $Id: MeterMaker.cc,v 1.20 2002/03/22 03:23:40 bgrayson Exp $
 //
 #include <stdlib.h>
 #include "general.h"
@@ -33,7 +33,7 @@
 
 CVSID_DOT_H2(PLLIST_H_CVSID);
 CVSID_DOT_H(METERMAKER_H_CVSID);
-CVSID("$Id$");
+CVSID("$Id: MeterMaker.cc,v 1.20 2002/03/22 03:23:40 bgrayson Exp $");
 
 MeterMaker::MeterMaker(XOSView *xos){
   _xos = xos;

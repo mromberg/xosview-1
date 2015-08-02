@@ -4,7 +4,7 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: MeterMaker.cc,v 1.3 1997/02/26 18:34:51 mromberg Exp $
 //
 #include "MeterMaker.h"
 #include "xosview.h"

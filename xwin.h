@@ -1,5 +1,5 @@
 //
-// $Id$
+// $Id: xwin.h,v 1.9 2003/10/09 03:38:24 bgrayson Exp $
 //
 #ifndef _XWIN_H_
 #define _XWIN_H_
@@ -16,7 +16,7 @@
 #endif
 #include <string.h>
 
-#define XWIN_H_CVSID "$Id$"
+#define XWIN_H_CVSID "$Id: xwin.h,v 1.9 2003/10/09 03:38:24 bgrayson Exp $"
 
 class XWin;
 class Xrm;

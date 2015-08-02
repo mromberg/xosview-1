@@ -1,5 +1,5 @@
 //  
-// $Id$
+// $Id: loadmeter.cc,v 1.6 2006/02/18 07:57:21 romberg Exp $
 //  Initial port performed by Greg Onufer (exodus@cheers.bungi.com)
 //
 #include "loadmeter.h"

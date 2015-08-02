@@ -4,7 +4,7 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: cpumeter.h,v 1.7 2006/02/18 06:03:46 romberg Exp $
 //
 #ifndef _CPUMETER_H_
 #define _CPUMETER_H_

@@ -2,7 +2,7 @@
 # Top level Makefile Template for xosview.
 #
 #
-# $Id$
+# $Id: Makefile.top.in,v 1.29 2006/02/18 08:15:40 romberg Exp $
 #
 include Makefile.config
 

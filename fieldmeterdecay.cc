@@ -12,7 +12,7 @@
 //    should have received.  If not, contact one of the xosview
 //    authors for a copy.
 //
-// $Id$
+// $Id: fieldmeterdecay.cc,v 1.17 2006/02/18 04:33:04 romberg Exp $
 //
 
 // In order to use the FieldMeterDecay class in place of a FieldMeter class in
@@ -42,7 +42,7 @@
 #include "fieldmeterdecay.h"
 #include "xosview.h"
 
-CVSID("$Id$");
+CVSID("$Id: fieldmeterdecay.cc,v 1.17 2006/02/18 04:33:04 romberg Exp $");
 CVSID_DOT_H(FIELDMETERDECAY_H_CVSID);
 
 FieldMeterDecay::FieldMeterDecay( XOSView *parent,

@@ -4,7 +4,7 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: intmeter.cc,v 1.6 2003/10/09 04:12:48 bgrayson Exp $
 //
 #include <stdlib.h>		/*  For atoi().  */
 #include "intmeter.h"

@@ -1,5 +1,5 @@
 //  
-// $Id$
+// $Id: gfxmeter.cc,v 1.5 2005/09/23 09:58:44 eile Exp $
 //  Initial port performed by Stefan Eilemann (eile@sgi.com)
 //
 

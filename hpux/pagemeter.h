@@ -4,7 +4,7 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: pagemeter.h,v 1.1 1997/02/26 18:34:57 mromberg Exp $
 //
 #ifndef _PAGEMETER_H_
 #define _PAGEMETER_H_

@@ -1,5 +1,5 @@
 //  
-// $Id$
+// $Id: MeterMaker.cc,v 1.4 2004/06/15 16:37:10 romberg Exp $
 //  Initial port performed by Greg Onufer (exodus@cheers.bungi.com)
 //
 #include "MeterMaker.h"

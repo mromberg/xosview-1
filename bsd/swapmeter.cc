@@ -12,7 +12,7 @@
 //    should have received.  If not, contact one of the xosview
 //    authors for a copy.
 //
-// $Id$
+// $Id: swapmeter.cc,v 1.23 2003/10/14 01:53:17 bgrayson Exp $
 //
 #include <stdlib.h>		//  For atoi().  BCG
 #ifndef HAVE_SWAPCTL
@@ -23,7 +23,7 @@
 #include "swapinternal.h"	/*  For *SwapInfo() functions.  */
 #include "kernel.h"		/*  For BSDSwapInit().  */
 
-CVSID("$Id$");
+CVSID("$Id: swapmeter.cc,v 1.23 2003/10/14 01:53:17 bgrayson Exp $");
 CVSID_DOT_H(SWAPMETER_H_CVSID);
 
 static int doSwap = 1;

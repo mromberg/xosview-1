@@ -7,7 +7,7 @@
 //  Only small changes were made on my part (M.R.)
 //  Small changes for Irix 6.5 port Stefan Eilemann <eile@sgi.com>
 //
-// $Id$
+// $Id: loadmeter.cc,v 1.4 2005/09/23 09:58:44 eile Exp $
 //
 #include "loadmeter.h"
 #include "xosview.h"

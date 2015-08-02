@@ -4,7 +4,7 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: xosview.cc,v 1.33 2006/02/19 01:51:42 romberg Exp $
 //
 #include <unistd.h>
 #include <stdlib.h>
@@ -60,7 +60,7 @@ static const char NAME[] = "xosview@";
 
 double MAX_SAMPLES_PER_SECOND = 10;
 
-CVSID("$Id$");
+CVSID("$Id: xosview.cc,v 1.33 2006/02/19 01:51:42 romberg Exp $");
 CVSID_DOT_H(XOSVIEW_H_CVSID);
 
 

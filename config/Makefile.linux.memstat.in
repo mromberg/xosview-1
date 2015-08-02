@@ -2,7 +2,7 @@
 # Linux memstat Makefile template
 #
 #
-# $Id$
+# $Id: Makefile.linux.memstat.in,v 1.4 1999/11/05 05:39:04 romberg Exp $
 #
 CC     = gcc
 # For some reason (which I am not sure of now), /usr/src/linux/include

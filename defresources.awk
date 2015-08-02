@@ -3,7 +3,7 @@
 # from an X resource file.
 #
 #
-# "$Id$"
+# "$Id: defresources.awk,v 1.6 2002/03/24 23:24:38 zedpobre Exp $"
 #
 
 #
@@ -16,12 +16,12 @@ BEGIN {
   print "// using the awk program found in defresources.awk.";
   print "// This file will be rebuilt when Xdefaults is modified.";
   print "//";
-  print "// $Id$";
+  print "// $Id: defresources.awk,v 1.6 2002/03/24 23:24:38 zedpobre Exp $";
   print "//";
   print "//\n\n";
   print "#include \"general.h\"\n";
   print "\n";
-  print "CVSID(\"$Id$\");\n";
+  print "CVSID(\"$Id: defresources.awk,v 1.6 2002/03/24 23:24:38 zedpobre Exp $\");\n";
   #  By including all of the Xdefaults file below, we also pick up the
   #    CVS Id from the Xdefaults file.
   #  However, it'd be nice if some file had the CVS Id for the

@@ -1,4 +1,4 @@
-  /*  $Id$  */
+  /*  $Id: CHANGES,v 1.55 2006/02/19 01:51:42 romberg Exp $  */
 
 Changes since xosview-1.8.2
  - NFSDStats ans NFSStats Graph, Decay and UsedMode are now configurable

@@ -4,7 +4,7 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: loadmeter.h,v 1.1 1997/02/26 18:34:54 mromberg Exp $
 //
 #ifndef _LOADMETER_H_
 #define _LOADMETER_H_

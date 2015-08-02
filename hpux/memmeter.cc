@@ -4,7 +4,7 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: memmeter.cc,v 1.12 1999/01/31 20:18:49 bgrayson Exp $
 //
 #include "memmeter.h"
 #include "xosview.h"

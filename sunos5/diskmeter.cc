@@ -2,7 +2,7 @@
 //  Rewritten for Solaris by Arno Augustin 1999
 //  augustin@informatik.uni-erlangen.de
 //
-// $Id$
+// $Id: diskmeter.cc,v 1.1 1999/11/06 23:12:34 romberg Exp $
 //
 
 #include "diskmeter.h"

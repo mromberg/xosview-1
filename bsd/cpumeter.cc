@@ -12,7 +12,7 @@
 //    should have received.  If not, contact one of the xosview
 //    authors for a copy.
 //
-// $Id$
+// $Id: cpumeter.cc,v 1.20 2003/10/09 03:55:39 bgrayson Exp $
 //
 #if defined(XOSVIEW_NETBSD)
 #include <sys/param.h>		// Needed for __NetBSD_Version__
@@ -29,7 +29,7 @@
 #include <sys/dkstat.h>
 #endif
 
-CVSID("$Id$");
+CVSID("$Id: cpumeter.cc,v 1.20 2003/10/09 03:55:39 bgrayson Exp $");
 CVSID_DOT_H(CPUMETER_H_CVSID);
 
 CPUMeter::CPUMeter( XOSView *parent )

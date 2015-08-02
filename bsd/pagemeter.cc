@@ -13,14 +13,14 @@
 //    should have received.  If not, contact one of the xosview
 //    authors for a copy.
 //
-// $Id$
+// $Id: pagemeter.cc,v 1.16 2002/03/22 03:23:41 bgrayson Exp $
 //
 #include <stdlib.h>		//  For atoi().  BCG
 #include "general.h"
 #include "pagemeter.h"
 #include "kernel.h"		//  For NetBSD Page functions.
 
-CVSID("$Id$");
+CVSID("$Id: pagemeter.cc,v 1.16 2002/03/22 03:23:41 bgrayson Exp $");
 CVSID_DOT_H(PAGEMETER_H_CVSID);
 
 PageMeter::PageMeter( XOSView *parent, double total )

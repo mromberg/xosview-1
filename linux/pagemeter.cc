@@ -4,7 +4,7 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: pagemeter.cc,v 1.11 2004/06/01 03:07:41 romberg Exp $
 //
 #include "pagemeter.h"
 #include "xosview.h"

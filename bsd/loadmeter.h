@@ -12,12 +12,12 @@
 //    should have received.  If not, contact one of the xosview
 //    authors for a copy.
 //
-// $Id$
+// $Id: loadmeter.h,v 1.10 2002/03/22 03:23:40 bgrayson Exp $
 //
 #ifndef _LOADMETER_H_
 #define _LOADMETER_H_
 
-#define LOADMETER_H_CVSID "$Id$"
+#define LOADMETER_H_CVSID "$Id: loadmeter.h,v 1.10 2002/03/22 03:23:40 bgrayson Exp $"
 
 #include "fieldmetergraph.h"
 

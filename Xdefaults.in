@@ -12,7 +12,7 @@
 ! **********************************************************************
 !
 !  xosview resources (override into your .Xdefaults file)
-!  $Id$
+!  $Id: Xdefaults.in,v 1.49 2006/02/18 06:03:46 romberg Exp $
 
 ! General Resources
 

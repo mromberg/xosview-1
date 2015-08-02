@@ -2,7 +2,7 @@
 # HPUX Makefile template
 #
 #
-# $Id$
+# $Id: Makefile.hpux.in,v 1.7 1997/11/29 20:58:23 bgrayson Exp $
 #
 include ../Makefile.config
 @AUTODEPRULE_SUBDIR@

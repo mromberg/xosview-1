@@ -4,12 +4,12 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: fieldmeter.h,v 1.15 2006/02/18 04:33:04 romberg Exp $
 //
 #ifndef _FIELDMETER_H_
 #define _FIELDMETER_H_
 
-#define FIELDMETER_H_CVSID "$Id$"
+#define FIELDMETER_H_CVSID "$Id: fieldmeter.h,v 1.15 2006/02/18 04:33:04 romberg Exp $"
 
 #include "meter.h"
 #include "timer.h"

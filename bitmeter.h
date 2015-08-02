@@ -4,12 +4,12 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: bitmeter.h,v 1.7 2006/02/18 04:33:04 romberg Exp $
 //
 #ifndef _BITMETER_H_
 #define _BITMETER_H_
 
-#define BITMETER_H_CVSID "$Id$"
+#define BITMETER_H_CVSID "$Id: bitmeter.h,v 1.7 2006/02/18 04:33:04 romberg Exp $"
 
 #include "meter.h"
 

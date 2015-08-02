@@ -11,7 +11,7 @@
 //  header from the version from which this file was created, are included
 //  below:
 //
-// $Id$
+// $Id: swapinternal.cc,v 1.23 2003/10/10 05:07:25 bgrayson Exp $
 //
 //  NOTE THAT THIS FILE IS UNDER THE BSD COPYRIGHT, AND NOT GPL!
 //

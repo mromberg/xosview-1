@@ -1,5 +1,5 @@
 //  
-// $Id$
+// $Id: MeterMaker.cc,v 1.8 2003/04/25 14:09:44 eile Exp $
 //  Initial port performed by Stefan Eilemann (eile@sgi.com)
 //
 #include "MeterMaker.h"

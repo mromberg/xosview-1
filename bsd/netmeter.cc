@@ -12,7 +12,7 @@
 //    should have received.  If not, contact one of the xosview
 //    authors for a copy.
 //
-// $Id$
+// $Id: netmeter.cc,v 1.20 2003/10/10 04:55:37 bgrayson Exp $
 //
 #include <err.h>		//  For warnx.
 #include <stdlib.h>		//  For atoi().  BCG
@@ -20,7 +20,7 @@
 #include "netmeter.h"
 #include "kernel.h"
 
-CVSID("$Id$");
+CVSID("$Id: netmeter.cc,v 1.20 2003/10/10 04:55:37 bgrayson Exp $");
 CVSID_DOT_H(NETMETER_H_CVSID);
 CVSID_DOT_H2(TIMER_H_CVSID);
 CVSID_DOT_H3(TIMEVAL_H_CVSID);

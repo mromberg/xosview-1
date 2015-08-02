@@ -4,12 +4,12 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: meter.h,v 1.8 2006/02/18 04:33:04 romberg Exp $
 //
 #ifndef _METER_H_
 #define _METER_H_
 
-#define METER_H_CVSID "$Id$"
+#define METER_H_CVSID "$Id: meter.h,v 1.8 2006/02/18 04:33:04 romberg Exp $"
 
 #include <stdio.h>
 #include "xosview.h"	//  To grab MAX_SAMPLES_PER_SECOND.

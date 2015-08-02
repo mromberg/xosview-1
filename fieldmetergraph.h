@@ -12,7 +12,7 @@
 #ifndef _FIELDMETERGRAPH_H_
 #define _FIELDMETERGRAPH_H_
 
-#define FIELDMETERGRAPH_H_CVSID "$Id$"
+#define FIELDMETERGRAPH_H_CVSID "$Id: fieldmetergraph.h,v 1.6 2006/02/18 04:33:04 romberg Exp $"
 
 #include "meter.h"
 #include "fieldmeterdecay.h"

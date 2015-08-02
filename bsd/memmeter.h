@@ -12,12 +12,12 @@
 //    should have received.  If not, contact one of the xosview
 //    authors for a copy.
 //
-// $Id$
+// $Id: memmeter.h,v 1.9 2002/03/22 03:23:41 bgrayson Exp $
 //
 #ifndef _MEMMETER_H_
 #define _MEMMETER_H_
 
-#define MEMMETER_H_CVSID "$Id$"
+#define MEMMETER_H_CVSID "$Id: memmeter.h,v 1.9 2002/03/22 03:23:41 bgrayson Exp $"
 
 #include "fieldmetergraph.h"
 

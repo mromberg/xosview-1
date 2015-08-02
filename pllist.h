@@ -4,12 +4,12 @@
 //  This file may be distributed under terms of the GPL
 //
 //
-// $Id$
+// $Id: pllist.h,v 1.4 2006/02/18 04:33:04 romberg Exp $
 //
 #ifndef _pllist_h
 #define _pllist_h
 
-#define PLLIST_H_CVSID "$Id$"
+#define PLLIST_H_CVSID "$Id: pllist.h,v 1.4 2006/02/18 04:33:04 romberg Exp $"
 
 #include "llist.h"
 

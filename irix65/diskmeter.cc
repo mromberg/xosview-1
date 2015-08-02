@@ -1,5 +1,5 @@
 //  
-// $Id$
+// $Id: diskmeter.cc,v 1.2 2003/04/24 06:15:19 eile Exp $
 //  Initial port performed by Stefan Eilemann (eile@sgi.com)
 //
 

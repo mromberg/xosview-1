@@ -1,5 +1,5 @@
 //
-// $Id$
+// $Id: cpumeter.cc,v 1.6 2003/04/25 14:09:44 eile Exp $
 //  Initial port performed by Stefan Eilemann (eile@sgi.com)
 //
 #include "cpumeter.h"

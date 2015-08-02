@@ -7,7 +7,7 @@
 //    should have received.  If not, contact one of the xosview
 //    authors for a copy.
 //
-// $Id$
+// $Id: intratemeter.cc,v 1.4 2006/02/18 07:57:21 romberg Exp $
 //
 #include <err.h>		//  For warnx.
 #include <stdlib.h>	//  For atoi.
@@ -15,7 +15,7 @@
 #include "intratemeter.h"
 #include "xosview.h"
 
-CVSID("$Id$");
+CVSID("$Id: intratemeter.cc,v 1.4 2006/02/18 07:57:21 romberg Exp $");
 CVSID_DOT_H(IRQRATEMETER_H_CVSID);
 
 IrqRateMeter::IrqRateMeter( XOSView *parent )

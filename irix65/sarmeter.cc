@@ -1,5 +1,5 @@
 //  
-// $Id$
+// $Id: sarmeter.cc,v 1.6 2003/04/24 06:15:21 eile Exp $
 //  Initial port performed by Stefan Eilemann (eile@sgi.com)
 //
 

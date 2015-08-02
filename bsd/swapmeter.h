@@ -9,12 +9,12 @@
 //    should have received.  If not, contact one of the xosview
 //    authors for a copy.
 //
-// $Id$
+// $Id: swapmeter.h,v 1.10 2002/03/22 03:23:41 bgrayson Exp $
 //
 #ifndef _SWAPMETER_H_
 #define _SWAPMETER_H_
 
-#define SWAPMETER_H_CVSID "$Id$"
+#define SWAPMETER_H_CVSID "$Id: swapmeter.h,v 1.10 2002/03/22 03:23:41 bgrayson Exp $"
 
 #include "fieldmetergraph.h"
 
